@@ -11,12 +11,11 @@ For this exercise, we'd like you to explore some sample projects from the last f
 #### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
 - https://people.rit.edu/acz1391/235/project1
 - https://people.rit.edu/tjs9702/235/portfolio
-- https://people.rit.edu/zbw5667/235/project1
-- https://people.rit.edu/ssw1882/235/project1/
+- https://people.rit.edu/zbw5667/
+- https://people.rit.edu/ssw1882/portfolio
 - https://people.rit.edu/njs3685/
-- https://people.rit.edu/jmw2423/235/project1
+- https://people.rit.edu/jmw2423/portfolio
 - https://people.rit.edu/ces5666/235/project1
-- https://people.rit.edu/wno9619/235/project1
 - https://people.rit.edu/mhc4466/235/project1/
 - https://people.rit.edu/nsw7227/
 - https://people.rit.edu/axt6773/235/project1/
