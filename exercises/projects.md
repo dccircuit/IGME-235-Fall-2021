@@ -19,10 +19,10 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/mhc4466/235/project1/
 - https://people.rit.edu/nsw7227/
 - https://people.rit.edu/axt6773/235/project1/
-- https://people.rit.edu/cam8030/235/project1/
+- https://people.rit.edu/cam8030/conniem
 - https://people.rit.edu/jts4605/portfolio/
 - https://people.rit.edu/tmm8046/235/project1
-- https://people.rit.edu/csv6423/235/project1/
+- https://people.rit.edu/csv6423/
 - https://people.rit.edu/jtg1984/
 - https://people.rit.edu/jdh5563/
 - https://people.rit.edu/kcj7751/235/project1/
