@@ -108,7 +108,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 #### Recent Games - Fall 2020
 - Blast Run - https://people.rit.edu/mhc4466/235/project3/ (Pixi Game)
 - Caves & Creatures - https://people.rit.edu/ccc9775/235/project3/ (DOM Game)
-- The Floor is Lava - https://people.rit.edu/stb6897/235/project3/ (Pixi Game)
 - Gwent Card Creator - https://people.rit.edu/cdb7951/235/project3/index.html (DOM Interactive Experience)
 - Tennis: Hard Mode - https://people.rit.edu/ejb3432/235/project3/ (Pixi with DOM scoring)
 - The Urban Underdog - https://people.rit.edu/nmb9745/235/project3/ (Pixi with DOM input field - way beyond expectations).
@@ -123,7 +122,7 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Audioweaver - https://people.rit.edu/rgm7620/235/project3/game.html (Pixi Game)
 - Night Flight - https://people.rit.edu/msm6982/235/project3/ (Pixi Game)
 - Zen Tank - https://people.rit.edu/kwl2789/235/ProjectThree/game (Pixi Game)
-- Gravity Runner - https://people.rit.edu/dps2249/235/project3/game.html (Pixi Game)
+- Gravity Runner - https://people.rit.edu/dps2249/GravityRunner/game.html (Pixi Game)
 - Tanks! - https://people.rit.edu/tw5417/235/project3/game.html (Pixi Game) 
 - Wall Jump Frenzy - https://people.rit.edu/nsw7227/235/project3/ (Pixi Game)
 - TileTracer - https://people.rit.edu/zbw5667/235/project3/ (Pixi Game)
