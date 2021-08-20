@@ -86,7 +86,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/~nqs3694/235/project2/
 
 #### Previous Project 2s
-- https://people.rit.edu/yl5209/230/project2/
 - https://people.rit.edu/ajr6974/230/project2/
 - https://people.rit.edu/rls2819/230/project2/index.html
 - https://people.rit.edu/jcs1738/230/project2/
@@ -99,7 +98,7 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/spg1627/235/project2/
 - https://people.rit.edu/crl3554/235/project2/amiiboFinder/
 - https://people.rit.edu/jeh4253/235/project2/
-- https://people.rit.edu/rw7363/235/project2/
+- https://people.rit.edu/rw7363/235/project2/ -- beautiful interface, but issue with API currently.
 - https://people.rit.edu/nzl6723/235/project2/gif-finder.html
 - https://people.rit.edu/daj6462/235/project2/
 
