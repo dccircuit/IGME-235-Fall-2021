@@ -9,6 +9,9 @@ For this exercise, we'd like you to explore some sample projects from the last f
 ### Category 1: Portfolios (We will start ours for Project 1 and finish them later in the semester)
 
 #### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
+- https://people.rit.edu/sc4020/235/project1/
+- https://people.rit.edu/aem3780/235/project1/
+- https://people.rit.edu/amb7316/235/project1/
 - https://people.rit.edu/acz1391/235/project1
 - https://people.rit.edu/tjs9702/235/portfolio
 - https://people.rit.edu/zbw5667/
@@ -64,6 +67,11 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ### Category 2: Web Service Applications (This will be our Project 2)
 
+#### Spring 2021 Project 2s
+- https://people.rit.edu/njs7772/235/project2/
+- https://people.rit.edu/sc4020/235/project2/
+- https://people.rit.edu/amb7316/235/project2/
+
 #### Fall 2020 Project 2s
 - https://people.rit.edu/nsw7227/235/project2/
 - https://people.rit.edu/~jtg1984/235/project2/
@@ -105,7 +113,13 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
 
-#### Recent Games - Fall 2020
+#### Recent Games - Spring 2021
+- Survive - https://people.rit.edu/ng8975/235/project3/ (Pixi Game)
+- Dungeons, Danger, Glory - https://people.rit.edu/njs7772/235/project3/ (Pixi Game)
+- Terminal Velocity - https://people.rit.edu/jmb8220/235/project3/game.html (Pixi Game)
+- Minesweeper - https://people.rit.edu/rtw8377/235/project3/game.html (DOM Game)
+
+#### Still Recent Games - Fall 2020
 - Blast Run - https://people.rit.edu/mhc4466/235/project3/ (Pixi Game)
 - Caves & Creatures - https://people.rit.edu/ccc9775/235/project3/ (DOM Game)
 - Gwent Card Creator - https://people.rit.edu/cdb7951/235/project3/index.html (DOM Interactive Experience)
