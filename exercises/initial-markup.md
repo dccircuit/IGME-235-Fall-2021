@@ -1,6 +1,6 @@
 # Exercise: Initial Markup 
 
-This is a Lab Exercise.  You should try to complete all of the steps of this exercise rather quickly. Eventually, we will ask you to submit the work that you do on this HTML Lab Series (There are a total of 12 small exercises that build on each other).  In addition, you will have an individual homework assignment that is very similar that will be due soon (see the After Lab Checklists and the Assignments section in myCourses).
+This is a Lab Exercise.  You should try to complete all of the steps of this exercise rather quickly. Each week, we will ask you to submit the work that you have done so far on this HTML Lab Series (There are a total of 12 small exercises that build on each other) to the myCourses dropbox.  In addition, you will have an individual homework assignment that is very similar that will be due soon (see the Checklists and the Assignments section in myCourses).
 
 Below are some general steps that you should follow, but they are not exact.  Use your knowledge from the reading and Review Videos to achieve the goals below.
 
