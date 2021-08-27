@@ -1,7 +1,7 @@
 
 # Exercise: Good Web Practices Hunt 
 
-This can be a team exercise.  **If you are present for the in-person Lab**, your instructor will divide you into four teams using some highly technical (or not) method.  You will each stay at your own computer.  The instructor will assign you one of the 4 categories below.  Follow the instructions for that category.  Try to search quickly, we'll share findings in about 10 minutes. **If you are remote,** instead, randomly pick one of the four categories below (or pick one that appeals to you) and look for an example site on your own.
+This can be a team exercise.  **If you are present for the in-person Lab**, your instructor will divide you into four teams using some highly technical (or not) method.  You can move closer together or each stay at your own computer.  The instructor will assign you one of the 4 categories below.  Follow the instructions for that category.  Try to search quickly, we'll share findings in about 10 minutes. **If you are remote,** instead, randomly pick one of the four categories below (or pick one that appeals to you) and look for an example site on your own.
 
 ## Do the following:
 ### If you are in a "Progressive Enhancement" team:
