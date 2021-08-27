@@ -33,6 +33,6 @@ The is the last lab exercise for this week.  Finish strong!  Don't forget to ask
 
 
 ## Okay, that's enough for this week. Take the whole game directory so far and put it in your 235 directory on Banjo.
-  - Want to show it off, post a link to it in your section-specific channel on Slack!
-  - If you're online/flex, your instructor might require it. :-)
+  - Your instructor might ask you to post a link to this to your section-specific channel on Slack! (go check and do so if requested -- in-person sessions will not require this)
+  - You'll also be asked to Zip up the folder that you're working in so far and submit it to the first HTML Lab Work assignment.  (include the URL to it on banjo in the comments section).
 
