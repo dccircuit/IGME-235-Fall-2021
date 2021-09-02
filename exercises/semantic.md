@@ -8,7 +8,7 @@ The is the last lab exercise for this week.  Finish strong!  Don't forget to ask
 
     - Add `<hr>` between sections
 
-    - Add appropriate additional `<h2>`, `<h3>`
+    - Add appropriate additional `<h2>`, `<h3>` (you might not need any h3s)
 
     - Turn the Publishing Information and Game Genre Information into two separate Unordered Lists
 
