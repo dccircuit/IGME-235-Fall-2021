@@ -1,10 +1,10 @@
 # Exercise: Links 
 
-This is the last lab exercise for this week. Finish strong!  It's worth doing the rest of this exercise on your own if you run out of time in the in-person lab... We'll pick up from here next week, so be sure to save your work.
+Here's a new week's worth of exercises!   We're picking up from last week's exercises, so start from Dig Dug wherever you left off last time.
 
 ## Do the following:
 
-1. Create the following file structure and put your **index.html** page in the top folder.  Put the image into the appropriate subfolder and preview.
+1. Create the following file structure and put your **index.html** page in the top folder.  Put the image into the appropriate subfolder (aka subdirectory) and preview.
 
     ![file structure](links-file-structure.png)
 
