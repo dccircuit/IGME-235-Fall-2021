@@ -4,7 +4,7 @@ We've got some specialized images for you to add to your Dig Dug page.  An SVG i
 
 ## Do the following:
 
-1. Download this SVG image: [dig-dug.svg](dig-dug.svg)
+1. Download this SVG image: [dig-dug.svg](dig-dug.svg). (use the "raw" button to get to the "code" of the image -- which may display as the image itself in your browser -- in which case you can use right-click > save as... to save a copy)
 
 1. View it in your browser quickly to see what it looks like.  Notice how it resizes smoothly at all sizes.
 
