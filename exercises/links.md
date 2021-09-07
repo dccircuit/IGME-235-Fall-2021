@@ -25,7 +25,7 @@ Here's a new week's worth of exercises!   We're picking up from last week's exer
 
 1. On the index.html, make an external link to the page on MobyGames about Dig Dug.
 
-1. Change that link so that it creates a new window when clicked.  (probably bad practice, but we still want you to see how it's done).
+1. Change that link so that it creates a new window (or tab in most browsers) when clicked.  (probably bad practice, but we still want you to see how it's done).
 
 ## If you are so inclined and want to impress:
 
