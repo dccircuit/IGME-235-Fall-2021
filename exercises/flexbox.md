@@ -1,6 +1,6 @@
 # Exercise: Flexbox
 
-In this exercise, you will again use the starting tetris.html file that you used for the [last exercise](floatposition.md).  However, you will rename your old css file to something else and instead, start a new css file at the same name as the old one.
+In this exercise, you will again use the starting tetris.html file that you used for the [last exercise](floatposition.md).  However, you will **rename your old css file to something else and instead, start a new css file at the same name as the old one**.
 
 ## Do the following:
 
