@@ -19,4 +19,4 @@ Let's modify our text a bit.
     - Hint, the universal selector is a single character.
 
 ## If you are so inclined, otherwise, move on.
-- Try proving that you can make a functional **decendant** selector where a paragraph (or other element) that's located in your `<footer>` (for example) has a different style applied to it than a paragraph that appears elsewhere on your page.
+- Try proving that you can make a functional **descendant** selector where a paragraph (or other element) that's located in your `<footer>` (for example) has a different style applied to it than a paragraph that appears elsewhere on your page.
