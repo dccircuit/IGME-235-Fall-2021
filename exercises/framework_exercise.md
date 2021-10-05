@@ -43,8 +43,7 @@ Copy from the web page or from right here:
 
 8. Let's first start with the NavBar, go to https://getbootstrap.com/docs/5.1/components/navbar/ and we will copy the first example code into our newly emptied body (here it is it, also):
 
-   ```
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+```<nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -80,7 +79,7 @@ Copy from the web page or from right here:
     </div>
   </div>
 </nav>
-   ```
+```
 
 9. Now save and reload this page and see the results. Resize the browser window, notice what happens to the navigation? Go back into VS Code and look closely at the code, do you see the large number of CSS classes that each element has? All those classes are what makes the navbar function, there are also a number of data and aria attributes used as well. Feel free to experiment with the navbar, add some links, or even try to add another pulldown.
 
