@@ -23,17 +23,16 @@ Start by downloading the starter file located here: [Frameworks Starter Files](c
 Copy it from the web page or from right here:
 
    ```
-   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
    ```
 
-4. Next, below the styles.css link, paste the given 3 links to Javascript libraries.  
+4. Next, below the styles.css link, paste the given links to Javascript libraries.  The bootstrap site suggests you add this code at the bottom of your web page right before the closing </body> tag.  However, with a situation like this, you can still put them in the head section.
 
 Copy from the web page or from right here:
    
 ```
-   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
    ```
    
 5. Now preview the **bootstrap.html** file in your browser as well (it would be best to open in a new window or tab). Notice the differences between base styles and the bootstrap-applied styles.  It's not a lot, but there are font differences and line-height changes, etc.
@@ -42,44 +41,45 @@ Copy from the web page or from right here:
 
 7. In VS Code, duplicate the **bootstrap.html** and name the new file **bootstrap-navbar.html**, and in the new file empty out the body content.
 
-8. Let's first start with the NavBar, go to https://getbootstrap.com/docs/4.5/components/navbar/ and we will copy the first example code into our newly emptied body (here it is it, also):
+8. Let's first start with the NavBar, go to https://getbootstrap.com/docs/5.1/components/navbar/ and we will copy the first example code into our newly emptied body (here it is it, also):
 
    ```
-   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-     <a class="navbar-brand" href="#">Navbar</a>
-     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-       <span class="navbar-toggler-icon"></span>
-     </button>
-   
-     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-       <ul class="navbar-nav mr-auto">
-         <li class="nav-item active">
-           <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-         </li>
-         <li class="nav-item">
-           <a class="nav-link" href="#">Link</a>
-         </li>
-         <li class="nav-item dropdown">
-           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-             Dropdown
-           </a>
-           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-             <a class="dropdown-item" href="#">Action</a>
-             <a class="dropdown-item" href="#">Another action</a>
-             <div class="dropdown-divider"></div>
-             <a class="dropdown-item" href="#">Something else here</a>
-           </div>
-         </li>
-         <li class="nav-item">
-           <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-         </li>
-       </ul>
-       <form class="form-inline my-2 my-lg-0">
-         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-       </form>
-     </div>
-   </nav>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
    ```
 
 9. Now save and reload this page and see the results. Resize the browser window, notice what happens to the navigation? Go back into VS Code and look closely at the code, do you see the large number of CSS classes that each element has? All those classes are what makes the navbar function, there are also a number of data and aria attributes used as well. Feel free to experiment with the navbar, add some links, or even try to add another pulldown.
@@ -88,14 +88,14 @@ Copy from the web page or from right here:
 
 11. Now we will utilize the #slideshow rules found in our **style.css**.
 
-12. Go take a look at this url: https://getbootstrap.com/docs/4.5/components/carousel/. You can refer to this page for more information about the Carousel, but we'll be putting in some of our own code for this next example. The HTML below is based off the first sample, but we've replaced the images with 5 slides from placeholder.com.
+12. Go take a look at this url: https://getbootstrap.com/docs/5.1/components/carousel/. You can refer to this page for more information about the Carousel, but we'll be putting in some of our own code for this next example. The HTML below is based off the first sample, but we've replaced the images with 5 slides from placeholder.com.
 
 Copy and paste this into your body:
 
     ```
     <div id="container">
       <div id="slideshow">
-    	  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img src="https://via.placeholder.com/500x300/0000FF/808080?text=Slide1" class="d-block w-100" alt="...">
@@ -121,7 +121,7 @@ Copy and paste this into your body:
 13. Save and preview this file, observe the glory of a fully functional carousel slideshow!  You'll need to wait about 5 seconds to see it change.
 
 14. Now, can you alter this slideshow and change into a slideshow with controls? The code is on the Bootstrap page, see if you can make that work.
-    - Hint: Note the relationship in the code between the ```id``` of the carousel and the ```href``` values of the next and previous buttons.
+    - Hint: Note the relationship in the code between the ```id``` of the carousel and the ```data-bs-target``` values of the next and previous buttons.
 
 
 
