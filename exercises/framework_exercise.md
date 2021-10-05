@@ -203,11 +203,11 @@ Copy and paste this into your body:
 
 5. In a web browser window or tab, go to https://fontawesome.com/. We will refer back to this site for finding icons. They don't provide an easy-to-get-to CDN link, so we'll use another resource to get a CDN, open a new tab or window and go to https://cdnjs.com/libraries/font-awesome.
 
-6. From cdnjs, copy the first css link (make sure to use the "copy link tag" button so that you get the full HTML) and paste it into the HEAD section of your fontawesome.html file, once again, be sure this is before the link to your style.css link.
+6. From cdnjs, use the pull-down to select the most recent non-beta version (currently 5.15.4) and copy the first css link (make sure to use the "copy link tag" button so that you get the full HTML) and paste it into the HEAD section of your fontawesome.html file, once again, be sure this is before the link to your style.css link.
 
 This is the URL that you'll be using (but you need to include it in a full link tag)
 ```
-   https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css
+   https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
    ```
    
 7. Let's enhance one of our links in the nav bar. First, go back to the window you opened to https://fontawesome.com, and in the search box in the header, type in "instagram" and click the search button. In the search results, click the first matching result.
