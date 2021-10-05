@@ -43,7 +43,8 @@ Copy from the web page or from right here:
 
 8. Let's first start with the NavBar, go to https://getbootstrap.com/docs/5.1/components/navbar/ and we will copy the first example code into our newly emptied body (here it is it, also):
 
-```<nav class="navbar navbar-expand-lg navbar-light bg-light">
+```
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
