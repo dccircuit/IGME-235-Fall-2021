@@ -92,7 +92,7 @@ Copy from the web page or from right here:
 
 Copy and paste this into your body:
 
-    ```
+```
     <div id="container">
       <div id="slideshow">
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
@@ -116,7 +116,7 @@ Copy and paste this into your body:
          </div>
        </div>
      </div>
-    ```
+ ```
 
 13. Save and preview this file, observe the glory of a fully functional carousel slideshow!  You'll need to wait about 5 seconds to see it change.
 
