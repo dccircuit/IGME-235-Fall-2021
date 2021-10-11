@@ -196,11 +196,11 @@ Copy and paste this into your body:
 
 1. For our last part of the lab, we'll take a look at Font Awesome. Font Awesome isn't an extensive style library like the others, but it does provide an important function, which is to provide easy to use iconography for your web site.
 
-2. In VS Code, open the **navbar-starter.html** file. To keep things simple, we have an embedded CSS style that formats our header, nav and main elements on our simple page. 
+2. In VS Code, open the **navbar-start.html** file. To keep things simple, we have an embedded CSS style that formats our header, nav and main elements on our simple page. 
 
 3. Open this page in the browser. Observe how it's just a simple page with a header, some text and 2 buttons. It's rather plain, so we'll add some imagery to make our links and options look much better.
 
-4. Back in VS Code, copy the **navbar-starter.html** file to **fontawesome.html**.
+4. Back in VS Code, copy the **navbar-start.html** file to **fontawesome.html**.
 
 5. In a web browser window or tab, go to https://fontawesome.com/. We will refer back to this site for finding icons. They don't provide an easy-to-get-to CDN link, so we'll use another resource to get a CDN, open a new tab or window and go to https://cdnjs.com/libraries/font-awesome.
 
