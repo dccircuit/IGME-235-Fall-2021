@@ -45,7 +45,7 @@ For this project you are creating a JavaScript driven Web application that utili
     - Jikan Unofficial MyAnimeList API*: https://jikan.docs.apiary.io/
     - The Amiibo API*: http://www.amiiboapi.com
         - *Starters for the above 3 APIs can be found in the [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
-    - REST Countries: https://restcountries.com/ 
+    - REST Countries: https://restcountries.com/  
     **Recent additions to the list:**
     - Pokémon TCG API: https://docs.pokemontcg.io/
     - Pokemon API: https://pokeapi.co/docs/v2
