@@ -5,7 +5,7 @@
 
 - For this project you are creating a JavaScript-driven game or experience.
 - You will be proposing an idea and describing it on a nicely formatted "proposal/about" web page which will include the "game treatment" elements described below: 
-- If you would like to see examples of previous projects, take a look back at the [Past Project exploration Exercise from Week 1](https://github.com/dccircuit/IGME-235-Fall-2020/blob/master/exercises/projects.md).
+- If you would like to see examples of previous projects, take a look back at the [Past Project exploration Exercise from Week 1](https://github.com/dccircuit/IGME-235-Fall-2021/blob/master/exercises/projects.md).
 
 You will use **ONE** (or both) of these technology stacks:
 - **JavaScript & PixiJS** (which wraps WebGL): 
