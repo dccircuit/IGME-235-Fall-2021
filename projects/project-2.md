@@ -14,7 +14,7 @@ For this project you are creating a JavaScript driven Web application that utili
 - Resources:
     - Our entire Web apps series: [Web Apps 0 - About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
    - This HW pulls together most of what you need to know into a working example -> [GIF Finder HW](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-gif-finder-lab.md) 
-   - Here are some working web service examples for you to look at - you can use any of these APIs in your project except for GIPHY: [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
+   - Here are some working web service examples for you to look at - you can use any of these APIs in your project: [web-service-app-starters.md](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-service-app-starters.md)
    - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## II. Requirements
