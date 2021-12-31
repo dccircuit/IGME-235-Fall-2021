@@ -116,12 +116,12 @@ During final exam week, you will present your project in a brief video demo. Pla
 ## VIII. Grading
 
 ### Your project grade will be split into two parts.
-- 1/2 of your overall score will be assessed based on the video demo that you provide.
+- 1/2 of your overall score will be assessed based on what we can see in the video demo that you provide (the video ITSELF if not worth that much).
 - 1/2 of your overall score will be assessed separately based on your required file submission.
 
 ### The grading rubrics for each part of this assignment are attached to the
 - Project 3 - Final Code Submission
-- Project 3 - Video Demo Link
+- Project 3 - Video Demo Link 
 
 assignments in myCourses.  
 
