@@ -33,6 +33,9 @@ Before you get started, the instructor will give you a preview of the kind of th
     4. Make it stay in the top right corner of the browser window even as the page scrolls. (this requires position:fixed)
     5. Try sending it to a deeper level so that other things scroll over top of it.  (this will require a negative z-index)
 
+## When you're done experimenting:
+- Save what you've done, but don't submit it anywhere yet.  You'll keep this HTML but start on a fresh new CSS file in the next exercise.
+
 ## If you feel so inclined, otherwise move on to the next exercise:
 - Get your content off of the edges and get your tetromino images to fit within their boxes.
 
