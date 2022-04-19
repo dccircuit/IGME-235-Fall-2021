@@ -104,12 +104,12 @@ Here is a template document of sorts, once used in another class. It contains so
 - When you're ready to hand in your document (and actually throughout the development process), add your documentation to the same web page that you created just above for your proposal. Include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements.
 
 ## VII. Video Demonstration
-During final exam week, you will present your project in a brief video demo. Plan to show us:
-- What you made.
-- How it works.
-- What's cool, and what you think is "above and beyond"
+During final exam week, you will present your project in a brief (5 to 10 minutes) video demo. Plan to show us:
+- What you made. (What is it?  What's the purpose?)
+- How it works. (Demonstrate it!  Don't walk through the code.)
+- What's cool, and what you think is "above and beyond". (Important!)
 - How you overcame any serious challenges.
-- Resources utilized (for libraries, tutorials, etc.), if you used any.
+- Resources utilized (for libraries, tutorials, etc.), if you used any (outside of in-class demos and homeworks, that is).
 
 **There is an alternative if you have technical issues with making your own video as described above in the Milestones section.**
 
